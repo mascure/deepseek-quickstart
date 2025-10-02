@@ -181,3 +181,5 @@ deepseek/api/milvus_docs/*
 mcp/dev*
 a2a/*
 .DS_Store
+.distill/output
+.distill/DeepSeek-R1-Qwen-1.5B-4bit
